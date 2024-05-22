@@ -1,5 +1,3 @@
-# Proxmox-Mail Gateway
-
 # Proxmox Mail Gateway
 
 ![image](/imagenes/screen1.png)
