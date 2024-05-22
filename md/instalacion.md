@@ -73,14 +73,6 @@ Before starting, ensure you meet the following requirements:
 3. **Configure and manage Proxmox Mail Gateway**:
    - Once logged in, you will have access to the Proxmox Mail Gateway administration interface where you can configure and manage your email policies.
 
-## Conclusion
-
-Proxmox Mail Gateway is now installed and configured on your virtual machine within Proxmox VE. You can customize the filtering policies and rules according to the specific needs of your organization to ensure optimal protection against email-based threats.
-
----
-
-For more information and additional details, you can refer to the [official Proxmox Mail Gateway documentation](https://pmg.proxmox.com/).
-
 ## Video Tutorial
 
 You can watch a detailed video tutorial of the installation process at the following link: [Proxmox Mail Gateway Installation Tutorial](https://www.youtube.com/watch?v=94W16qtx8n8).
