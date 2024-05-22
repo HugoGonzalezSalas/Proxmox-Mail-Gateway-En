@@ -10,6 +10,9 @@
 
 [4. Installing Proxmox Mail Gateway](/md/instalacion.md)
 
+[Proxmox Mail Gateway - Español](https://github.com/HugoGonzalezSalas/Proxmox-Mail-Gateway-Es)
+
+
 ## Author
 
 [Hugo Gonzalez Salas](https://github.com/HugoGonzalezSalas)
